@@ -24,6 +24,8 @@ Stay Organized:  Use this app to keep your daily tasks organized and make sure n
 
 Technology Stack
 
-HTML: Used to structure the webpage.
-CSS: For styling the webpage and ensuring a clean and user-friendly interface.
-JavaScript: To manage the functionality of the todo list, including adding, deleting, and marking tasks as completed.
+HTML:  Used to structure the webpage.
+
+CSS:  For styling the webpage and ensuring a clean and user-friendly interface.
+
+JavaScript:  To manage the functionality of the todo list, including adding, deleting, and marking tasks as completed.
